@@ -1,1 +1,0 @@
- I am attempting to learn more about web scraping with python and Beautiful soup looks like the tool I was looking for. Being said that, I am struggling with cleaning up the data, here I will attempt to keep the code clean and comment everything. 
