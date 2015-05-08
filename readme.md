@@ -6,3 +6,5 @@ MQTT is yet to be tested.
 Need to experiment on iPython Notebooks. Find out what they are and where they should /could be used.
 
 Find out how to implement CoAP using python.
+
+Find out if there is a module for ESP8266 for python
