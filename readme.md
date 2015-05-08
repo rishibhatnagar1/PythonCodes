@@ -4,3 +4,5 @@ Setting up a space for storing all the codes I keep working on. Nothing specific
 MQTT is yet to be tested.
 
 Need to experiment on iPython Notebooks. Find out what they are and where they should /could be used.
+
+Find out how to implement CoAP using python.
