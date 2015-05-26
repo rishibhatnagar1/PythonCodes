@@ -9,4 +9,6 @@ Find out how to implement CoAP using python.
 
 Find out if there is a module for ESP8266 for python
 
-Added omdb
+Added omdb.
+
+I always confuse between how objects should be handeled in python and JS. In JS , a dot has to be used to access various things. In Python how ever [] have to be used to access the key value pairs.
