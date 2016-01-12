@@ -34,3 +34,5 @@ Once you click on `Finish`, you will be able to see the data structured beautifu
 ><li>I always confuse between how objects should be handeled in python and JS. In JS , a dot has to be used to access various things. In Python how ever [] have to be used to access the key value pairs.</li>
 <li>Installed MacVim today and love it.[This] (https://github.com/macvim-dev/macvim) is to be clone and then [this](https://github.com/macvim-dev/macvim/blob/master/README_mac.txt) is to be followed.
 For making the syntax on easily, just type `:syntax on` and you are done.</li>
+
+~~This is strikethrough ~~
