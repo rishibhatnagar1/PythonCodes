@@ -48,6 +48,8 @@ Here is the documnetation on [how](http://docs.python-guide.org/en/latest/dev/vi
 
 * For Mac El Capitan, there are SIP issues. [Here](http://docs.python-guide.org/en/latest/starting/install/osx/) is how you install python and pip. There might be issues with [homebrew](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md), here is how youfix it. 
 
-* Youtube-dl doesn't work directly though pip installation, so I have made an alias in .bash_profile. `alias youtube-dl='/Users/userName/Library/python/2.7/bin/youtube-dl'`
+* Youtube-dl doesn't work directly though pip installation, so I have made an alias in .bash_profile. 
+
+`alias youtube-dl='/Users/userName/Library/python/2.7/bin/youtube-dl'`
 
 
