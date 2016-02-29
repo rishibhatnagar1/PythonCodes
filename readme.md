@@ -36,8 +36,6 @@ Here is the documnetation on [how](http://docs.python-guide.org/en/latest/dev/vi
 * Find out how to implement CoAP using python.
 * Find out if there is a module for ESP8266 for python.
 
-####Updates
-* Added omdb.
 
 ###Random learnings
 
